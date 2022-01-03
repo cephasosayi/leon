@@ -64,7 +64,7 @@ h6, .h6 {
 }
 
 p {
-    font-family: 'Gilroy-Medium';
+    font-family: 'Gilroy';
     font-size: 18px;
     line-height: 21px;
     letter-spacing: 0.5px;
@@ -164,7 +164,7 @@ top: 423px;
 
 /* 18 p tag */
 
-font-family: 'Gilroy-Medium';
+font-family: 'Gilroy';
 font-size: 18px;
 line-height: 21px;
 letter-spacing: 0.5px;
@@ -228,7 +228,7 @@ top: -20px;
 left: 786px;
 top: 904px;
 
-font-family: 'Gilroy-Medium';
+font-family: 'Gilroy';
 font-size: 18px;
 line-height: 21px;
 letter-spacing: 0.5px;
@@ -245,7 +245,7 @@ margin-bottom: 30px;
 left: 786px;
 top: 904px;
 
-font-family: 'Gilroy-Medium';
+font-family: 'Gilroy';
 font-size: 18px;
 line-height: 21px;
 letter-spacing: 0.5px;
@@ -513,7 +513,7 @@ h6, .h6 {
 }
 
 p {
-    font-family: 'Gilroy-Medium';
+    font-family: 'Gilroy';
     font-size: 18px;
     line-height: 14px;
     letter-spacing: 0.5px;
@@ -536,7 +536,7 @@ p {
   height: 88px;
    /* 18 p tag */
 
-  font-family: Gilroy-Medium;
+  font-family: Gilroy;
   font-size: 18px;
   line-height: 21px;
   letter-spacing: 0.5px;
@@ -578,7 +578,7 @@ p {
   display: none;
 }
 .abt-left-body{
-  font-family: 'Gilroy-Medium';
+  font-family: 'Gilroy';
 font-size: 14px;
 line-height: 21px;
 letter-spacing: 0.5px;
@@ -669,7 +669,7 @@ footer{
   color: #F1F1F1;
   }
   .m-body, .v-body{
-    font-family: Gilroy-Medium;
+    font-family: Gilroy;
 font-size: 18px;
 line-height: 21px;
 text-align: center;
@@ -828,7 +828,7 @@ opacity: .4;
   left: 30px;
   top: 60px;
 
-  font-family: 'Gilroy-Medium';
+  font-family: 'Gilroy';
   font-size: 16px;
   line-height: 24px;
   /* or 150% */
@@ -902,7 +902,7 @@ height: 940px;
 left: 232px;
 top: 1154px;
 
-font-family: 'Gilroy-Medium';
+font-family: 'Gilroy';
 font-size: 18px;
 line-height: 20px;
 /* or 111% */
@@ -920,7 +920,7 @@ color: #505050;
         left: 232px;
         /* top: 1154px; */
         
-        font-family: 'Gilroy-Medium';
+        font-family: 'Gilroy';
         font-size: 18px;
         line-height: 20px;
         /* or 111% */
