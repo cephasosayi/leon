@@ -390,12 +390,13 @@ color: #FAFAFA;
   border-bottom-left-radius:30px;
   height: 60px;
   padding: 3px;
+  /* margin-top: 20px; */
 
 }
 .c-img{
   justify-content: center;
   align-items: center;
-  margin-right: 20px;
+  margin-left: 40px;
 }
 .l{
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../assets/icons/bg.png);
@@ -461,6 +462,9 @@ text-transform: capitalize;
 
 color: #FAFAFA;
 
+}
+.str-title2{
+  display: none;
 }
 
 /* responsiveness  */
@@ -586,8 +590,12 @@ p {
 .img1{
   position: absolute;
  
- 
-
+ }
+ .c-img{
+  justify-content: center;
+  align-items: center;
+  margin-left: 40px;
+  margin-bottom: -30%;
 }
 .img2{
    position: absolute;
