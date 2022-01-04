@@ -145,10 +145,8 @@ color: #FAFAFA;
 }
 .img1{
   position: absolute;
- 
- 
+ }
 
-}
 .img2{
    position: absolute;
    left: 116.92px;
@@ -467,7 +465,9 @@ color: #FAFAFA;
 
 /* responsiveness  */
 @media (max-width: 576px){
-  
+  .gallerysection{
+    display: none;
+  }
 h1, .h1,
 h2, .h2,
 h3, .h3,
@@ -480,7 +480,15 @@ h6, .h6 {
  font-family: 'AirbnbCerealBlack';
 
 }
-
+.str-title2{
+  font-size: 38px;
+  margin-left: -70px;
+  margin-bottom: -30px;
+  color: #ffffff;
+}
+.bg-dark{
+  margin-top: 120px;
+}
 h1, .h1 {
     font-family: 'AirbnbCerealBlack'
 ;
@@ -526,7 +534,12 @@ h5, .h5 {
 h6, .h6 {
   font-size: 16px;
 }
+#strategysection{
+  width: 90px;
+  max-width: 100px;
+ display: none;
 
+  }
 p {
     font-family: 'AirbnbCerealBlack';
     font-size: 18px;
@@ -621,10 +634,10 @@ color: #1A2126;
   text-align: center;
   height: 100vh;
 } */
-footer img{
+/* footer img{
   width: 300px;
   justify-content: center;
-}
+} */
 .link-li, .bi-text{
   margin-bottom: 50px;
 }
@@ -636,6 +649,7 @@ footer{
 
   background: #090B0C;
 }
+
 .list-inline{
   margin-top: 120px;
   font-size: 14px;
@@ -656,7 +670,7 @@ footer{
   font-size: 38px;
 }
 .abt-left-body, .abt-left-body2  {
-  width: 110%;
+  width: 107%;
   font-size: 14px;
   
 }
@@ -1086,3 +1100,10 @@ color: #505050;
         
         color: #505050;
       }
+
+.footer-img{
+  width: 68px;
+  height: 76.34px;
+  left: 135px;
+  top: 15px;
+}
