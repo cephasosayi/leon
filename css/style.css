@@ -465,7 +465,7 @@ color: #FAFAFA;
 
 /* responsiveness  */
 @media (max-width: 576px){
-  .gallerysection{
+  .slide, .slide-title {
     display: none;
   }
 h1, .h1,
