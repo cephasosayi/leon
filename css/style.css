@@ -141,7 +141,8 @@ color: #FAFAFA;
 }
 .col2-body{
   position: relative;
-  margin-left: 50px;
+  margin-left: 70px;
+  margin-top: 40px;
 }
 .img1{
   position: absolute;
@@ -417,7 +418,7 @@ color: #FAFAFA;
 }
 footer{
 
-  height: 450px;
+  height: 430px;
   left: 0px;
   top: 3644px;
 
@@ -472,6 +473,13 @@ color: #FAFAFA;
   .slide, .slide-title {
     display: none;
   }
+  .str-title2{
+    font-size: 38px;
+    margin-left: -70px;
+    margin-bottom: -30px;
+    color: #ffffff;
+  }
+ 
 h1, .h1,
 h2, .h2,
 h3, .h3,
@@ -484,12 +492,7 @@ h6, .h6 {
  font-family: 'AirbnbCerealBlack';
 
 }
-.str-title2{
-  font-size: 38px;
-  margin-left: -70px;
-  margin-bottom: -30px;
-  color: #ffffff;
-}
+
 .bg-dark{
   margin-top: 120px;
 }
@@ -731,7 +734,7 @@ color: #F1F1F1;
    /* width: 400px; */
    margin-right: 90px;
    margin-left: -65%;
-   font-size: 38px;
+   font-size: 32px;
    margin-top: -15px;
 
  }
@@ -831,7 +834,7 @@ footer img{
 }
 .m-title, .v-title{
   font-family: 'AirbnbCerealBold';
-  font-size: 48px;
+  font-size: 38px;
   line-height: 56px;
   /* identical to box height, or 117% */
 
